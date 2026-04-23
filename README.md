@@ -1,8 +1,8 @@
-# SQL Practice
+# SQL Practice Portfolio
 
-SQL practice repository containing beginner exercises, queries and database learning progress.
+This repository documents my SQL learning journey through hands-on exercises, practice queries and progressive mini-projects.
 
-## Topics Covered
+## Skills Practiced
 
 * SELECT
 * FROM
@@ -18,14 +18,18 @@ SQL practice repository containing beginner exercises, queries and database lear
 * GROUP BY
 * COUNT(*)
 
-## Files
+## Repository Structure
 
-* day1_queries.sql
-* day2_queries.sql
-* day3_day4_queries.sql
+* day1_queries.sql → SQL fundamentals
+* day2_queries.sql → Sorting, filtering and pattern matching
+* day3_day4_queries.sql → Logic filters, ranges and grouped data analysis
 
-## Progress
+## Learning Approach
 
-Day 4 completed.
+I focus on learning SQL through practical execution in MySQL Workbench, repetition, structured notes and GitHub documentation.
 
-More advanced SQL topics coming soon.
+## Current Progress
+
+Completed Day 4 of my SQL bootcamp.
+
+More advanced topics and projects coming soon.
