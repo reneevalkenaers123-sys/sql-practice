@@ -1,13 +1,25 @@
 USE bootcamp;
 
-SELECT * FROM customers ORDER BY name;
+-- ORDER BY ASC
+SELECT * FROM customers
+ORDER BY name;
 
-SELECT * FROM customers ORDER BY name DESC;
+-- ORDER BY DESC
+SELECT * FROM customers
+ORDER BY name DESC;
 
-SELECT * FROM customers LIMIT 2;
+-- LIMIT
+SELECT * FROM customers
+LIMIT 2;
 
-SELECT DISTINCT country FROM customers;
+-- DISTINCT
+SELECT DISTINCT country
+FROM customers;
 
-SELECT * FROM customers WHERE name LIKE 'T%';
+-- LIKE STARTS WITH T
+SELECT * FROM customers
+WHERE name LIKE 'T%';
 
-SELECT * FROM customers WHERE name LIKE '%a%';
+-- LIKE CONTAINS A
+SELECT * FROM customers
+WHERE name LIKE '%a%';
