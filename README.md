@@ -23,6 +23,8 @@ This repository documents my SQL learning journey through hands-on exercises, pr
 * INNER JOIN
 * LEFT JOIN
 * RIGHT JOIN
+* Aliases
+* Subqueries
 
 ## Repository Structure
 
@@ -30,6 +32,7 @@ This repository documents my SQL learning journey through hands-on exercises, pr
 * day2_queries.sql → Sorting, filtering and pattern matching
 * day3_day4_queries.sql → Logic filters, ranges and grouped data analysis
 * day5_day8_queries.sql → Aggregations, grouped filtering and table joins
+* day9_queries.sql → Aliases, subqueries, HAVING and advanced grouped queries
 
 ## Learning Approach
 
@@ -37,9 +40,8 @@ I focus on learning SQL through practical execution in MySQL Workbench, repetiti
 
 ## Current Progress
 
-Completed Day 8 of my SQL bootcamp.
+Completed Day 9 of my SQL bootcamp.
 
-Currently progressing from beginner SQL into data analysis and relational database concepts.
+Currently progressing from beginner SQL into more advanced querying, joins and analytical logic.
 
 More advanced topics and projects coming soon.
-
