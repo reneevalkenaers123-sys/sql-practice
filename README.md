@@ -39,9 +39,9 @@ This repository documents my SQL learning journey through hands-on exercises, pr
 
 ## Current Progress
 
-Completed Day 11 of my SQL bootcamp.
+Completed Day 11+ of my SQL bootcamp
 
-Currently progressing from beginner SQL into practical data analysis and reporting logic.
+Currently practicing practical analyst-style SQL scenarios.
 
 ## Tools Used
 
