@@ -4,44 +4,41 @@ This repository documents my SQL learning journey through hands-on exercises, pr
 
 ## Skills Practiced
 
-* SELECT
-* FROM
-* WHERE
-* ORDER BY
-* LIMIT
-* DISTINCT
-* LIKE
-* AND
-* OR
-* BETWEEN
-* IN
-* GROUP BY
-* COUNT(*)
-* SUM()
-* AVG()
-* HAVING
-* INNER JOIN
-* LEFT JOIN
-* RIGHT JOIN
-* Aliases
-* Subqueries
+- SELECT
+- FROM
+- WHERE
+- ORDER BY
+- LIMIT
+- DISTINCT
+- LIKE
+- AND / OR
+- BETWEEN
+- IN
+- GROUP BY
+- COUNT()
+- SUM()
+- AVG()
+- HAVING
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- Aliases
+- Subqueries
+- CASE WHEN
+- NULL Handling
+- String Functions
 
 ## Repository Structure
 
-* day1_queries.sql → SQL fundamentals
-* day2_queries.sql → Sorting, filtering and pattern matching
-* day3_day4_queries.sql → Logic filters, ranges and grouped data analysis
-* day5_day8_queries.sql → Aggregations, grouped filtering and table joins
-* day9_queries.sql → Aliases, subqueries, HAVING and advanced grouped queries
-
-## Learning Approach
-
-I focus on learning SQL through practical execution in MySQL Workbench, repetition, structured notes and GitHub documentation.
+- day1_queries.sql → SQL fundamentals
+- day2_queries.sql → Sorting and filtering
+- day3_day4_queries.sql → Logic and grouped analysis
+- day5_day8_queries.sql → Aggregations and joins
+- day9_queries.sql → Aliases, subqueries, HAVING
+- day10_day11_queries.sql → CASE WHEN, NULL, string functions and business logic
 
 ## Current Progress
 
-Completed Day 9 of my SQL bootcamp.
+Completed Day 11 of my SQL bootcamp.
 
-Currently progressing from beginner SQL into more advanced querying, joins and analytical logic.
-
-More advanced topics and projects coming soon.
+Currently progressing from beginner SQL into practical data analysis and reporting logic.
